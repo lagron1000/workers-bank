@@ -1,0 +1,124 @@
+.container {
+    background-color: #eb0019;
+    width: 500px;
+    height: 666px;
+    border-radius: 9px;
+}
+
+.upper {
+    width: 500px;
+    height: 410px;
+    border-radius: 9px;
+}
+
+.lower{
+    border-radius: 9px;
+    background-color: #ae0117;
+    width: 500px;
+    height: 258px;
+}
+
+h2{
+    padding-top: 27px;
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    font-family: arial;
+}
+
+h4{
+    padding-top: 10px;
+    text-align: center;
+    color: white;
+    font-size: 24px;
+    font-family: arial;
+}
+
+p{
+    text-align: center;
+    font-family: arial;
+    font-size: 22px;
+    margin-top: 27px;
+    color: white;
+}
+
+.userIn{
+    direction: ltr;
+    margin-left: auto;
+    margin-right: auto;
+    width: 82%;
+    height: 13%;
+    border-radius: 9px;
+    margin-bottom: 10px;
+    text-align: right;
+    font-family: arial;
+    font-size: 23px;
+    padding-right: 23px;
+    display: block;
+}
+
+.passIn{
+    direction: ltr;
+    margin-left: auto;
+    margin-right: auto;
+    width: 82%;
+    height: 13%;
+    border-radius: 9px;
+    margin-bottom: 10px;
+    text-align: right;
+    font-family: arial;
+    font-size: 23px;
+    padding-right: 23px;
+    display: block;
+
+}
+
+.signIn{
+    direction: ltr;
+    margin-left: auto;
+    display: block;
+    margin-right: auto;
+    width: 45%;
+    height: 12%;
+    border-radius: 53px;
+    margin-top: 22px;
+    text-align: center;
+    color: red;
+    font-family: arial;
+    font-size: 26px;
+
+}
+
+.signUp {
+    height: 75px;
+    direction: ltr;
+    margin-left: auto;
+    display: block;
+    margin-right: auto;
+    width: 87%;
+    border-radius: 9px;
+    text-align: center;
+    color: darkblue;
+    font-family: arial;
+    font-size: 26px;
+    padding: 49px;
+}
+
+#space{
+    padding: 25px;
+}
+
+.btn-img{
+    margin-left: 117px;
+    margin-top: -26px;
+    position: absolute;
+    width: 44px;
+}
+
+h5{
+    margin-left: -2px;
+    margin-top: -17px;
+    position: absolute;
+    font-size: 25px;
+
+}
